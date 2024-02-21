@@ -214,14 +214,13 @@ By combining these components, the regex ensures proper structure and formality 
 
 ## Author
 
-Follow me on Github at [Thomas Calle](https://github.com/ThomasCalle). Additional questions or concerns? feel free to contact me.
+Follow me on Github at [very john](https://github.com/veryjohn1991). Additional questions or concerns? feel free to contact me.
 
 Until next, see you on the otherside!
 
 **Deployed GitHub-Gist Link:**
-[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/ThomasCalle/df5f3d3441f4206d9087f9643ffff91e)
+[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/veryjohn1991/302cb67a54c6ecaeb76248abd6c8bf20)
 
 **GitHub Repository:**
-[GitHub Repository: Click Here](https://github.com/ThomasCalle/Regex-in-JavaScript-A-Comprehensive-Tutorial-by-Thomas-Calle)
+[GitHub Repository: Click Here](https://github.com/veryjohn1991/computer-science-for-javascript)
 
-© 2023 [Thomas Calle](https://github.com/ThomasCalle). Confidential and Proprietary. All Rights Reserved.
